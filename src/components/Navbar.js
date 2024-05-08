@@ -30,7 +30,7 @@ export default function Navbar(){
     <div>
         <nav className="navbar fixed-top navbar-expand-lg navbar-dark bg-info bg-gradient text-black fw-bold opacity-75">
             <div className="container-fluid">
-           <Link className="navbar-brand" to="#"><img src="\images\logo.png" width="30" height="30" alt="RentHQ Logo" className="navbar-logo " />RentHQ</Link>
+           <Link className="navbar-brand" to="#">RentHQ</Link>
             <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
          <span className="navbar-toggler-icon"></span>
              </button>
